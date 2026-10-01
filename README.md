@@ -268,21 +268,3 @@ best_n = select_best_components(components, X_train, y_train)
 
 MIT License - see [LICENSE](LICENSE) file.
 
----
-
-## 📬 Contact
-
-**Hassan Rasheed**  
-📧 221980038@gift.edu.pk  
-💼 [LinkedIn](https://www.linkedin.com/in/hassan-rasheed-datascience/)  
-🐙 [GitHub](https://github.com/HassanRasheed91)
-
----
-
-<div align="center">
-
-**Made with ❤️ by Hassan Rasheed**
-
-*Predictive maintenance through signal processing and machine learning*
-
-</div>
